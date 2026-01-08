@@ -2,17 +2,19 @@
 
 ###
 
-<p align="left">My name is krish kr. singh and I'm an software developer.         🧑‍💻🧑‍💻</p>
-
-###
-
-<h2 align="left">About me</h2>
+<h2 align="left">My name is krish kr. singh and I'm an software developer.         🧑‍💻🧑‍💻</h2>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="225" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlmY25rZWZwMXB0NWQyOHBqYXphbWJrNGNmZDRobGdwYXRrMjFseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif"  />
+<h1 align="left">About me</h1>
+
+###
+
+<br clear="both">
+
+<img align="right" height="212" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlmY25rZWZwMXB0NWQyOHBqYXphbWJrNGNmZDRobGdwYXRrMjFseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif"  />
 
 ###
 
@@ -20,9 +22,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">I code with</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
