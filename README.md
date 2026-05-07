@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 KRISH KR. SINGH !!</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<h2 align="left">My name is krish kr. singh and I'm a Full stack software developer with hands-on experience building scalable services using Node.js, TypeScript, and MongoDB.      🧑‍💻🧑‍💻</h2>
+<h2 align="left">Myself krish kr. singh and I'm a Full stack software developer with hands-on experience building scalable services using Node.js, TypeScript, and MongoDB.      🧑‍💻🧑‍💻</h2>
 
 ###
 
