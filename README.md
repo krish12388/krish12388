@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is krish kr. singh and I'm an software developer.         🧑‍💻🧑‍💻</h2>
+<h2 align="left">My name is krish kr. singh and I'm a Full stack software developer with hands-on experience building scalable services using Node.js, TypeScript, and MongoDB.      🧑‍💻🧑‍💻</h2>
 
 ###
 
@@ -26,7 +26,16 @@
 
 ###
 
-<p align="left">✨ Creating and fixing bugs since 2025.<br><br>📚 I'm currently learning generative Ai and agentic Ai.<br><br>🎯 Goals: Becoming a good engineer and creating some impact through my work.</p>
+<p align="left">Backend engineer with hands-on experience building scalable services using Node.js, TypeScript, and MongoDB.
+
+Currently deep in microservice architecture — designing distributed systems with Docker, Kubernetes, and RabbitMQ for async message queuing. I care about writing backend code that actually scales under load.
+
+Projects I've shipped:
+→ URL Shortener — high-throughput redirect service
+→ Notify Central — event-driven notification system
+→ Traffic Flow AI — real-time data pipeline for public safety
+
+Tech I work with: Node.js · TypeScript · Express · MongoDB · GraphQL · Docker · Kubernetes · RabbitMQ · Git · CI/CD</p>
 
 ###
 
